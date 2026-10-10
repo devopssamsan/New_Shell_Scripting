@@ -1,8 +1,9 @@
 #!/bin/bash
 
 <<info
-	This Script will take periodic backup
-Let me check the updates are modified on GitHub Account or not
+	This Script will take periodic backup.
+        Can also be used with cron.
+
 eg:- 
 ./backup.sh <source> <dest>
 src = /home/raman/scripts
