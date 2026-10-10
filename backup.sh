@@ -3,7 +3,7 @@
 <<info
 	This Script will take periodic backup.
         Can also be used with cron.
-
+	Remodified
 eg:- 
 ./backup.sh <source> <dest>
 src = /home/raman/scripts
