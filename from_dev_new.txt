@@ -5,3 +5,6 @@ this commit is fine
 
 This commit is not a fine (Wrong, Bug, Issue )
 
+This is also a fine commit
+
+
